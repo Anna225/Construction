@@ -1,0 +1,431 @@
+body {
+  background: #fff!important;
+  font-family: 'Raleway', sans-serif;  
+}
+.logo{
+padding-left: 40px;
+padding-right: 40px;
+}
+.top-header{
+    background: #112134;
+    min-height: 45px;
+}
+.navbar{
+    background: #ececec;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    max-width: 95%;
+    min-height: 70px;
+    width: 100%;
+}
+.top-header-2{
+  background: #ececec;   
+}
+.navbar-nav{
+    background: #ececec;
+    
+}
+
+
+
+.nav-link{
+    text-decoration: none;
+    color: #737373;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.purchase-now {
+    background: #FFBB02;
+    padding: 20px 0px 20px;
+}
+.welcome{
+    
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.nopad{
+    padding: 0;
+}
+.nav-link:hover{
+    color: #fbb14f;
+    background: #fff;
+    border-radius: 5px;
+    border-right: 1px solid #fbb14f;
+    
+}
+
+.bg-background{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    background-image: url(http://localhost/builders/front-media/img/ceo.jpg) !important;
+    height: 400px;
+}
+
+.bg-aboutus{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    background-image: url(http://localhost/builders/front-media/img/footer.jpg) !important;
+    height: 400px;
+}
+
+.youdream-section{
+    padding-left: 20px;
+    padding-top: 60px;
+    position: absolute;
+    display: block;
+    visibility: visible;
+    z-index: 7;
+}
+
+.youdream-titletxt{
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Raleway;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 50px;
+    border-width: 0px;
+    margin: 3px 0px 15px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.yourdream-commentstxt{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Raleway;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 50px;
+    border-width: 0px;
+    margin: 3px 0px 15px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    padding-left: 5px;
+    letter-spacing: 1px;
+}
+
+.yourdream-txt{
+   font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Raleway;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 30px;
+    border-width: 0px;
+    margin: 3px 0px 15px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    padding-left: 5px;
+    letter-spacing: 1px;
+}
+.your-dream-image{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.your-dream-image img{
+    width: 350px;
+    height: 300px;
+}
+
+.getnow-section{
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    max-width: 80%;
+    
+}
+.getnow-texttitle{
+    
+    font-size: 35px;
+    color: #fff;
+    font-family: Raleway; 
+    display: inline;
+    text-align: left;
+}
+.purchase-now .btn-theme {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    margin-top: -6px;
+    border-radius: 5px;
+}
+.btn-theme {
+    color: #fff;
+    background: #ffbb02;
+    padding: 8px 25px !important;
+    overflow: hidden;
+    position: relative;
+    border: none;
+    text-transform: uppercase;
+    font-family: Open Sans;
+    font-weight: 600;
+    -webkit-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.20);
+    -moz-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.20);
+    box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.20);
+    margin-left: 60px;
+    
+}
+
+.btn-theme:hover {
+    font-size: 18px;
+    color: #ffbb02;
+    background: #ececec;
+    border: 2px solid white;
+}
+.ourservices-section{
+    background: #fff;
+    max-width: 85%;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    width: 100%;
+    
+}
+
+.title-area div{
+    display: inline-block;
+}
+.title-txt {
+   border-bottom: 2px solid #FFBB02; 
+ }
+ 
+ .title-txt p{
+     margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: Open Sans;
+    font-weight: 600;
+    font-size: 30px;
+    color: #737373;
+    letter-spacing: 1px;
+    
+    
+ }
+ 
+.title-area img{
+    width: 60px;
+    height: 40px;
+ }
+ .services-title-image i {
+     font-size: 32px;
+     padding-right: 10px;
+     color: #FFBB02;
+     
+ }    
+.serives-items{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.construction{
+    padding: 10px;
+    
+}
+.construction-icon i {
+    border: 2px solid #FFBB02;
+    padding: 15px;
+    font-size: 25px;
+    color: #FFBB02;
+    
+}
+.construction div{
+    display: inline-block;
+}
+.construction-items span {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 22px;
+    color: #737373;
+    font-family: Open Sans;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+.construction-items{
+    margin-top: 15px;
+}
+.construction-items p{
+    margin-left: 10px;
+    padding:0;
+    line-height: 1;
+    color: #737373;
+    padding-top: 2px;
+}
+
+.services-image{
+    padding-top: 20px;
+}
+.services-image img{
+    height: 340px;
+    width: 550px;
+}
+@media (min-width: 992px)
+
+{.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+}}
+
+@media (max-width: 420px)
+
+{
+    .your-dream-image img{
+    width: 50%;
+    height: 50%;
+}
+
+.your-dream-image{
+    padding-left: 30%;
+    padding-top: 10px;
+}
+
+.youdream-section{
+    padding-left: 10px;
+    padding-top: 20px;
+    position: absolute;
+    display: block;
+    visibility: visible;
+    z-index: 7;
+}
+
+.youdream-titletxt{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Raleway;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 25px;
+    border-width: 0px;
+    margin: 3px 0px 15px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+.yourdream-commentstxt{
+    font-size:22px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Raleway;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 25px;
+    border-width: 0px;
+    margin: 3px 0px 15px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    padding-left: 5px;
+}
+
+.yourdream-txt{
+   font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Raleway;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 20px;
+    border-width: 0px;
+    margin: 3px 0px 15px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    padding-left: 5px; 
+}
+.getnow-texttitle{
+    font-size: 16px;
+    font-weight: bold;
+} 
+.getnow-section p{
+    margin: 0;
+    padding: 0;
+}
+
+.purchase-now .btn-theme{
+  margin-top: 10px; 
+  padding: 2px 15px !important;
+  margin-left: 10px;
+}
+
+.ourservices-section{
+    padding-top:10px;
+    padding-left:0;
+}
+.serives-items{
+    padding-top: 15px;
+    padding-left: 35px;
+}
+.construction{
+    padding: 5px;
+}
+.construction-icon i{
+ padding: 8px;
+  margin-bottom: 10px;
+}
+.construction-items
+{
+    margin: 0;
+    
+}
+
+.construction-items span{
+  font-size: 18px;  
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+}
+
+.construction-items p{
+    margin-left: 10px;
+    margin-bottom: 0;
+    margin-top: 0px;
+    font-size: 12px;
+}
+.title-area{
+    margin-bottom: 10px;
+}
+.services-image{
+    padding-top: 10px;
+    padding-right: 10px;
+   
+}
+.services-image img{
+    width: 350px;
+    height: 200px;
+}
+.getnow-section{
+    max-width: 95%;
+    padding-left: 35px;
+}
+.youdream-section{
+    padding-left: 35px;
+}
+.your-dream-image{
+    padding-left: 35px;
+}
+}
+
